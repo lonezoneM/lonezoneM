@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @lonezoneM
-- 👀 I’m interested in future things.
-- 🌱 I’m currently learning python and basic class stuffs that evryone does.
-- 💞️ I’m looking to collaborate on my college and for myself🙂.
-- 📫 How to reach me : You'll know later!!
-
-<!---
-lonezoneM/lonezoneM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Metrics](https://metrics.lecoq.io/lonezoneM?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
