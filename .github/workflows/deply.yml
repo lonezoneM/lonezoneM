@@ -52,4 +52,4 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: Qouestionable?
           plugin_screenshot_url: https://questionablecontent.net
-          plugin_screenshot_selector: "#comic img"
+          plugin_screenshot_selector: "img id"
