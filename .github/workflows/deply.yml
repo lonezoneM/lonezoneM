@@ -50,7 +50,7 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_screenshot: yes
-          plugin_screenshot_title: An random image :
+          plugin_screenshot_title: An random image -
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#img id"
           plugin_fortune: yes
