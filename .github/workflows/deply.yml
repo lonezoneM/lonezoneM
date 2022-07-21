@@ -51,6 +51,6 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_screenshot: yes
           plugin_screenshot_title: An random image -
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic"
+          plugin_screenshot_url: https://www.generatormix.com/random-image-generator?category=science&image_type=photo&safe=on
+          plugin_screenshot_selector: "#output"
           plugin_fortune: yes
