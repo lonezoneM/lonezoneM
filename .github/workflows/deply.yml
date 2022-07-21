@@ -52,5 +52,5 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: An random image -
           plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#img id"
+          plugin_screenshot_selector: "#comic"
           plugin_fortune: yes
