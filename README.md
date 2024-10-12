@@ -2,4 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+Two&size=25&color=181AF7&lines=Here's+some+information+about+me+%3A)](https://git.io/typing-svg)
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
