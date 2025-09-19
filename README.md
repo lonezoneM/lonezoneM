@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+Two&size=33&duration=5040&color=F73C11&lines=Hey,!+Welcome+to+my+account!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+Two&size=25&color=181AF7&lines=Here's+some+information+about+me+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&color=5527F7&multiline=true&width=435&lines=Hey+there!;Up+for+a+coffee%3F)](https://git.io/typing-svg)
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
