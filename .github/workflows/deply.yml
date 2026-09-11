@@ -12,19 +12,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlight/metrics@latest
+      - uses: lowlighter/metrics@latest #  FIXED: Pointing to the official compiled action engine
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # Options (Your personal configuration remains perfectly safe!)
           user: lonezoneM
           template: classic
           base: header, activity, community, repositories, metadata
@@ -48,3 +41,4 @@ jobs:
           plugin_screenshot_title: An random image -
           plugin_screenshot_url: https://c.xkcd.com/random/comic/
           plugin_screenshot_selector: "#comic"
+          
